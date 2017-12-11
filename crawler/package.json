@@ -1,0 +1,18 @@
+{
+  "name": "crawler-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "crawler": "^1.1.1",
+    "jquery": "^3.2.1",
+    "jsdom": "^11.5.1",
+    "mysql": "^2.15.0",
+    "phantom": "^4.0.11"
+  }
+}
